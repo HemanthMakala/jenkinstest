@@ -9,7 +9,8 @@ public class TestController {
 	
 	@RequestMapping("/test")
 	public String testMethod() {
-		return "Hello Bunny";
+		
+		return "Hello Bunny How are You";
 		
 	}
 
